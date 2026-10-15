@@ -25,3 +25,7 @@ The Notes app on my Google Pixel is nice, but I get distracted and I am quite fo
 - v0: Save recipes (name, servings, total prep time, ingredients with amounts). Pick recipes for the week. Generate one merged grocery list. Check items off.
 - v1: Phone-friendly UI, ingredient costs, weekly cost + prep time totals, scale servings
 - v2: Sunday reminder, “haven’t made in a while” suggestions, store log
+
+## Tech stack
+- Backend: Python, FastAPI, SQLite
+- Frontend: React (planned for v1)
